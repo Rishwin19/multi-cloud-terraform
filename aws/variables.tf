@@ -1,11 +1,11 @@
 variable "access" {
   description = "this is my accese key"
-  default     = "KIAVRUVSAKVYXK3TBPP"
+  default     = "***********"
 
 }
 variable "secret" {
   description = "my key"
-  default     = "5drCWMjlQLLa5sB6qlq52T9nhHeqnti+sArIKFcP"
+  default     = "**************************"
 
 }
 variable "region" {
